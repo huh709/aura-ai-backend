@@ -2,6 +2,6 @@
   "name": "aura-backend",
   "version": "1.0.0",
   "dependencies": {
-    "@google/generative-ai": "^0.1.1"
+    "openai": "^4.0.0"
   }
 }
